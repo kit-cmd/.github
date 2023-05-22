@@ -41,7 +41,6 @@
 - Kurento Media Server
 - AWS
 - github Action
----
 
 ## 역할 분담
 추후 작성
